@@ -1,5 +1,5 @@
 # react-app
-An mobile application in react native, props, useState, useEffect, navigation, route
+An mobile application in react native, props, useState, useEffect, navigation, route, axios
 
 - install node
 - install expo
